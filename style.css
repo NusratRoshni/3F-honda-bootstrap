@@ -1,0 +1,228 @@
+body {
+  font-family: 'Poppins';
+
+}
+
+body h3 {
+
+  font-size: 48px;
+  font-weight: 600;
+}
+
+/* navbar part start */
+ul {
+  list-style-type: none;
+
+
+}
+
+li a {
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ .orange-button {
+  background-color: rgb(231, 111, 81);
+  border: none;
+  color: white;
+  padding: 12px 32px;
+  text-align: center;
+  font-size: 16px;
+
+}
+
+.btn-login {
+  text-decoration: none;
+
+}
+
+
+.head h1 {
+  font-size: 48px;
+  color: white;
+  font-weight: 600;
+
+
+}
+
+.head p {
+  font-size: 14px;
+  color: rgb(224, 224, 224);
+
+}  
+
+/* navbar part end*/
+
+/* features part start */
+
+
+
+.grayScale img {
+  filter: grayscale(100%);
+}
+
+/* features part end */
+
+
+/* Latest News part start */
+
+.outline-btn {
+
+
+  outline-style: solid;
+  outline-color: rgb(231, 111, 81);
+  background-color: white;
+  color: rgb(231, 111, 81);
+
+}
+
+.latestNews img {
+
+  width: 90%;
+  margin: auto;
+
+}
+
+.latestNews p {
+  font-size: 16px;
+  color: rgb(108, 108, 108);
+}
+
+
+/* Latest News part end */
+
+/* Happy Clients News part start */
+
+.HappyClients p {
+
+  text-align: center;
+  font-size: 16px;
+  color: rgb(108, 108, 108);
+
+}
+
+.HappyClients img {
+
+  width: 40%;
+  margin: auto;
+}
+
+.star h5 {
+  text-align: center;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.clientname {
+  color: #23A6F0;
+}
+
+.clientP {
+  text-align: center;
+
+  color: #252B42;
+}
+
+/* Happy Clients part end */
+
+/* Faq question part start */
+
+.faqimg img {
+
+  width: 80%;
+}
+
+
+.Question h5 {
+
+  font-size: 16px;
+  color: rgb(108, 108, 108);
+}
+
+
+
+/* Faq question part End */
+
+
+/* Email extra part start */
+
+h4{
+font-size: 30px;
+font-weight: 700;
+
+}
+.email p {
+
+  text-align: center;
+  font-size: 12px;
+  color: rgb(108, 108, 108);
+
+}
+.orangep{
+   color:lightcoral;
+   font-weight: 500;
+}
+.trans{
+
+  color: lightcoral;
+}
+
+/* Email extra part end */
+
+/* footer part start */
+
+.footer {
+
+  height: 280px;
+  background-color: #0B0D17;
+}
+
+.instagram {
+  border-radius: 40px;
+  color: #fff;
+  background: #d6249f;
+  background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+  box-shadow: 0px 3px 10px rgba(0, 0, 0, .25);
+}
+
+.facebook {
+  color: blue;
+  background-color: #fff;
+}
+
+
+.youtube {
+  color: #FF0000;
+  background-color: white;
+
+}
+
+.twitter {
+
+  color: white;
+  background-color: #1DA1F2;
+
+
+}
+.fa-brands {
+
+  font-size: 30px;
+  margin-left: 5px;
+}
+
+.icons h5{
+  font-size: 18px;
+  color: white;
+
+ padding: 30px 28px; 
+}
+
+/* footer part end */
+
+
+
+
+
+
